@@ -1,11 +1,4 @@
-"""
-WSGI config for leadmanager project.
-
-It exposes the WSGI callable as a module-level variable named ``application``.
-
-For more information on this file, see
-https://docs.djangoproject.com/en/3.1/howto/deployment/wsgi/
-"""
+# wSGI 호환 웹 서버의 진입점
 
 import os
 
