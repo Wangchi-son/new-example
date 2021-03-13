@@ -28,8 +28,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'leads',
-    'rest_framework'
+    'surveys',
+    'rest_framework',
+    'multiselectfield',
 ]
 
 MIDDLEWARE = [
