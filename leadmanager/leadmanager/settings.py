@@ -31,6 +31,7 @@ INSTALLED_APPS = [
     'surveys',
     'rest_framework',
     'multiselectfield',
+    'frontend',
 ]
 
 MIDDLEWARE = [
